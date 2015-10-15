@@ -23,12 +23,12 @@ Put a line ABOVE me!
 * unordered
 * list
 
-I want this to be a block of text
-that takes up three lines but on
+I want this to be a block of text  
+that takes up three lines but on  
 the preview it looks like one line
 
 **Make me bold**
 
 _Make me italicized_
 
-Turn this entire line of text into a link that goes to hstat.org
+[Turn this entire line of text into a link that goes to hstat.org](hstat.org)
